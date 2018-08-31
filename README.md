@@ -5,6 +5,8 @@ EPITECH second year project.
 The purpose of this project is to implement a scrapper, composed of a master process with a user interface
 which receives commands and of several slave processes.
 
+* **Codded primarly in C++**
+
 ## Requirements
 
  - [A Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution) or [Apple's macOS](https://en.wikipedia.org/wiki/MacOS)
@@ -25,8 +27,8 @@ A thread’s behavior will be detailed.
 
 `FILE + INFORMATION_TO_GET`
 
-PHONE_NUMBER
-EMAIL_ADDRESS
+PHONE_NUMBER | 
+EMAIL_ADDRESS | 
 IP_ADDRESS
 
 ## Author
