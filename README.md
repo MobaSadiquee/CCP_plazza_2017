@@ -18,11 +18,13 @@ Navigate to the root of the repository from your Terminal and run `make` to buil
 
 ## How to use
 
-**./plazza 5**
+`./plazza 5`
+
 The argument is used to specify how many threads can be started by each slave process.
 A thread’s behavior will be detailed.
 
-**FILE + INFORMATION_TO_GET**
+`FILE + INFORMATION_TO_GET`
+
 PHONE_NUMBER
 EMAIL_ADDRESS
 IP_ADDRESS
