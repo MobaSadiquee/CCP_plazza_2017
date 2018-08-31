@@ -11,6 +11,11 @@ which receives commands and of several slave processes.
  - [Make](https://www.gnu.org/software/make/)
  - [GCC](https://gcc.gnu.org/)
 
+
+## Compilation
+
+Navigate to the root of the repository from your Terminal and run `make` to build the executable file.
+
 ## How to use
 
 **./plazza 5**
